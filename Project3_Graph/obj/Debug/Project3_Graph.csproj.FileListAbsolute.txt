@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\bin\Debug\Project3_Graph.exe.config
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\bin\Debug\Project3_Graph.exe
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\bin\Debug\Project3_Graph.pdb
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\obj\Debug\Project3_Graph.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\obj\Debug\Project3_Graph.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\obj\Debug\Project3_Graph.exe
+C:\Users\DELL\source\repos\Project3_Graph\Project3_Graph\obj\Debug\Project3_Graph.pdb
